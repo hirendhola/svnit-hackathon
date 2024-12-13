@@ -11,7 +11,7 @@ export default function Home() {
           <InteractiveHoverComponent text="SVNIT-HACKATHON" duration={0.7} />
         </BackgroundLines>
 
-        <Button className="absolute top-[70%] cursor-pointer z-20">
+        <Button className="absolute top-[70%] cursor-pointer z-20 bg-transparent text-2xl">
           <Link href="/model">Take me</Link>
         </Button>
       </div>
