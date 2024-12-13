@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 import { useMotionValue } from "framer-motion";
 import React, { useState, useEffect } from "react";
